@@ -10,6 +10,5 @@ cargo run
 
 ## References
 
-- https://en.wikipedia.org/wiki/Hash_table
-- http://www.cse.yorku.ca/~oz/hash.html
-- https://en.wikipedia.org/wiki/Hash_collision
+- https://doc.rust-lang.org/std/alloc/index.html
+- https://en.wikipedia.org/wiki/Dynamic_array
